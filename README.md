@@ -11,19 +11,19 @@ Key tasks performed include:
 - Salary and age segmentation for HR insights.
 
 ---
-# HR Project: Employee Data Analysis in SQL
+# Print last 5 Rows
 ![HR Dataset Screenshot](https://github.com/Jayesh-dev-glitch/HR-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20124518.png)
 
-#
+# count of each unique value in the MaritalDesc
 ![HR Dataset Screenshot 2](https://github.com/Jayesh-dev-glitch/HR-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20124557.png)
 
-#
+# count of each unique value in the department
 ![HR Dataset Screenshot 3](https://github.com/Jayesh-dev-glitch/HR-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20124633.png)
 
-#
+# count of each unique value in the manager
 ![HR Dataset Screenshot 4](https://github.com/Jayesh-dev-glitch/HR-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20124702.png)
 
-#
+# Performance score  
 ![HR Dataset Screenshot 5](https://github.com/Jayesh-dev-glitch/HR-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20124722.png)
 
 
