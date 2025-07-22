@@ -11,8 +11,8 @@ Key tasks performed include:
 - Salary and age segmentation for HR insights.
 
 ---
-
-
+# HR Project: Employee Data Analysis in SQL
+![HR Dataset Screenshot](https://github.com/Jayesh-dev-glitch/HR-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20124518.png)
 
 
 ## ⚙️ Database Schema
