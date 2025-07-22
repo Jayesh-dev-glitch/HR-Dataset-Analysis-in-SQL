@@ -14,6 +14,11 @@ Key tasks performed include:
 # HR Project: Employee Data Analysis in SQL
 ![HR Dataset Screenshot](https://github.com/Jayesh-dev-glitch/HR-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20124518.png)
 
+#
+![HR Dataset Screenshot 2](https://github.com/Jayesh-dev-glitch/HR-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20124557.png)
+
+
+
 
 ## ⚙️ Database Schema
 
