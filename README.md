@@ -35,4 +35,34 @@ This table includes employee-related fields such as:
 
 ---
 
+📊 Key Insights
+
+Attrition Rate: Calculate how many employees leave the company over time.
+
+Salary Analysis: Distribution across departments and gender.
+
+Age Analysis: Segmentation by age groups for HR planning.
+
+Performance Insights: Average absences and performance scores.
+
+
+🚀 How to Use This Project
+Create the hrproject database:
+
+sql
+Copy
+Edit
+CREATE DATABASE hrproject;
+USE hrproject;
+Create the employees table and insert sample data.
+
+Run the provided SQL queries to explore HR analytics.
+
+🛠️ Tools & Technologies
+Database: MySQL
+
+SQL Concepts: Joins, Group By, Aggregates, CASE Statements, Alter Table, Data Cleaning.
+
+Visualization: Power BI / Tableau (optional future scope).
+
 
