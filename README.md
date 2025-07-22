@@ -20,6 +20,10 @@ Key tasks performed include:
 #
 ![HR Dataset Screenshot 3](https://github.com/Jayesh-dev-glitch/HR-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20124633.png)
 
+#
+![HR Dataset Screenshot 4](https://github.com/Jayesh-dev-glitch/HR-Dataset-Analysis-in-SQL/blob/main/Screenshot%202025-07-21%20124702.png)
+
+
 
 ## ⚙️ Database Schema
 
